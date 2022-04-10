@@ -1,0 +1,8 @@
+Admin & sub admin- Login with google
+
+student - create profile
+
+faculty - login with google
+
+********************************************
+
